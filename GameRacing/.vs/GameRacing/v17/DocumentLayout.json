@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Downloads\\GameRacing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03DD329B-62F3-4C03-969E-6048B185230E}|GameRacing\\GameRacing.csproj|\\\\mac\\home\\downloads\\gameracing\\gameracing\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DD329B-62F3-4C03-969E-6048B185230E}|GameRacing\\GameRacing.csproj|\\\\mac\\home\\downloads\\gameracing\\gameracing\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\GameRacing\\GameRacing\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GameRacing\\MainWindow.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\GameRacing\\GameRacing\\MainWindow.xaml",
+              "RelativeToolTip": "GameRacing\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T13:07:54.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\GameRacing\\GameRacing\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GameRacing\\MainWindow.xaml.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\GameRacing\\GameRacing\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GameRacing\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAAAE4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:07:53.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

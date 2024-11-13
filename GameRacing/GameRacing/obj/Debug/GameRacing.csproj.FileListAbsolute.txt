@@ -1,0 +1,15 @@
+\\Mac\Home\Downloads\GameRacing\GameRacing\bin\Debug\GameRacing.exe.config
+\\Mac\Home\Downloads\GameRacing\GameRacing\bin\Debug\GameRacing.exe
+\\Mac\Home\Downloads\GameRacing\GameRacing\bin\Debug\GameRacing.pdb
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\GameRacing.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\GameRacing_MarkupCompile.cache
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\GameRacing_MarkupCompile.lref
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\MainWindow.baml
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\GameRacing.g.resources
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\GameRacing.Properties.Resources.resources
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\GameRacing.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\GameRacing.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\GameRacing.exe
+\\Mac\Home\Downloads\GameRacing\GameRacing\obj\Debug\GameRacing.pdb
